@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+     <structure>
+          <unit label="chapter" identifier="5" order_by="266" level="1">PUBLIC HEALTH – GENERAL</unit>
+          <unit label="section" identifier="5.266" order_by="266" level="2">REGISTRY FOR SENIOR AND DISABLED PERSONS WHO WISH TO BE CONTACTED IN THE EVENT OF A DISASTER.</unit>
+     </structure>
+     <section_number>5.266</section_number>
+     <catch_line>SEC.</catch_line>
+     <order_by>00000000000000000000</order_by>
+     <text>
+          <section prefix="">
+            The Department of Public Health shall establish and maintain a register identifying those persons who wish to be visited after a major earthquake or other
+disaster which poses a threat of injury to such persons. The persons eligible to register are those 65 years of age or older, those who are disabled, and those who
+employ or house persons who are eligible to register. A "disabled person" is one whose life functions have been significantly altered by their medical condition or
+disease, or who has any other significantly disabling physical, or mental condition including, but not limited to, a physical condition that significantly impairs his or her ability to move normally, a chronic illness that requires continuing medication to prevent a life-threatening disease, or a condition (such as heart disease) that could result in a serious medical problem in a disaster. Persons who wish to be included in the register shall provide their name, address, telephone number and the
+names, addresses and telephone numbers of any relatives, neighbors, or other persons who regularly communicate with the person registered and may be able to
+provide information as to that person's condition in the event of a disaster. In the event of a major earthquake or other disaster which poses a threat of injury to
+senior and disabled persons, the Department shall attempt to visit or otherwise communicate with registered persons in order to determine if they need medical or
+other assistance. The Department shall act as expeditiously as possible, taking into consideration the need to allocate resources to respond to the disaster. The
+Department shall provide notice to the public that registration is available by such means as the Department determines best suited to reach seniors and the
+disabled. 
+          </section>
+          <section prefix="">
+By adopting this ordinance, the City and County of San Francisco is assuming an undertaking only to promote the general welfare. It is not assuming, not is it
+imposing on its officers and employees, an obligation for breach of which it is liable in money damages to any person who claims that such breach approximately
+caused injury. 
+          </section>
+          <section prefix="">
+            (Added by Ord. 259-90, App. 7/6/90)
+          </section>
+     </text>
+     <history>(Added by Ord. 259-90, App. 7/6/90)</history>
+</law>
