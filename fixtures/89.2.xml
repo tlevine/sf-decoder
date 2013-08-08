@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<law>
+     <structure>
+          <unit label="chapter" identifier="89" order_by="89" level="1">DEPARTMENT OF CHILD SUPPORT SERVICES</unit>
+          <unit label="section" identifier="89.2" order_by="2" level="2">DUTIES OF THE DEPARTMENT.</unit>
+     </structure>
+     <section_number>89.2</section_number>
+     <catch_line>SEC.</catch_line>
+     <order_by>00089000020000000000</order_by>
+     <text>
+          <section prefix="">
+The department shall be responsible for promptly and effectively establishing, modifying, and enforcing child support obligations, including medical support,
+enforcing spousal support orders established by a court of competent jurisdiction, and determining paternity in cases of a child born out of wedlock as specified in
+California Family Code Section 17400, including all further responsibilities delegated to a local child support agency pursuant to Division 17 (commencing with
+Section 17000) of the California Family Code. No other local agency shall have any authority over the department as to any function relating to its Title IV-D
+operations. 
+          </section>
+          <section prefix="">
+(Added by Ord. 156-00, File No. 000858, App. 6/30/2000)
+          </section>
+     </text>
+     <history>(Added by Ord. 156-00, File No. 000858, App. 6/30/2000)</history>
+</law>
+
